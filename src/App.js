@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-     hello how are you 
+ <h1>Hello I am Good don't  angry StrictMode</h1>
     </div>
   );
 }
